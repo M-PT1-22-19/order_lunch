@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f859e1-5234-4a57-958c-bb7a4b6ea472" name="Default" comment="added base.html">
-      <change afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Order_lunch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Order_lunch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Order_lunch/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Order_lunch/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +87,7 @@
       <workItem from="1569475609502" duration="457000" />
       <workItem from="1569476085351" duration="906000" />
       <workItem from="1569477113747" duration="259000" />
+      <workItem from="1569511982895" duration="754000" />
     </task>
     <task id="LOCAL-00001" summary="added base.html">
       <created>1569445149737</created>
