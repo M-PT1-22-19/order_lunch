@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f859e1-5234-4a57-958c-bb7a4b6ea472" name="Default" comment="added base.html">
+      <change afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Order_lunch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Order_lunch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Order_lunch/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Order_lunch/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,17 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="161" />
-    <option name="y" value="167" />
-    <option name="width" value="1120" />
-    <option name="height" value="567" />
-  </component>
   <component name="ProjectId" id="1RLPufi8K6RRoAHkmBMM6rotjYk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -91,6 +89,9 @@
       <option name="presentableId" value="Default" />
       <updated>1569348474938</updated>
       <workItem from="1569443651432" duration="1992000" />
+      <workItem from="1569475609502" duration="457000" />
+      <workItem from="1569476085351" duration="906000" />
+      <workItem from="1569477113747" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="added base.html">
       <created>1569445149737</created>
@@ -110,7 +111,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -119,15 +122,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added base.html" />
     <option name="LAST_COMMIT_MESSAGE" value="added base.html" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Order_lunch/urls.py</url>
-          <line>15</line>
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
