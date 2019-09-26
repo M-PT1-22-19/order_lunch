@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f859e1-5234-4a57-958c-bb7a4b6ea472" name="Default" comment="add and starting setting urls file">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\User\_python\Projects\order_lunch\app\templates" />
     </key>
   </component>
@@ -64,6 +64,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Order_lunch.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -97,6 +98,8 @@
       <workItem from="1569476085351" duration="906000" />
       <workItem from="1569477113747" duration="1165000" />
       <workItem from="1569485867496" duration="3000" />
+      <workItem from="1569503659572" duration="988000" />
+      <workItem from="1569510190886" duration="2078000" />
     </task>
     <task id="LOCAL-00001" summary="added base.html">
       <created>1569445149737</created>
