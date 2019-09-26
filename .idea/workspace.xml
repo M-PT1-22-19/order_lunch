@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66f859e1-5234-4a57-958c-bb7a4b6ea472" name="Default" comment="delete files" />
+    <list default="true" id="66f859e1-5234-4a57-958c-bb7a4b6ea472" name="Default" comment="delete env">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
